@@ -1,15 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prajwal Yadav</h1>
-<h3 align="center">A computer engineering by profession</h3>
+<h3 align="center">A Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalyadav&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalyadav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Data Structure, Operating system**
+- 🌱 I’m currently learning **coding, Data Structure, Operating system, Computer Networking**
 
-- 💬 Ask me about **C, C++, Adhunik Ganit**
+- 💬 Ask me about **Tech, SDLC, Programing Languages**
 
 - 📫 How to reach me **mr.prajwalyadav@gmail.com**
 
