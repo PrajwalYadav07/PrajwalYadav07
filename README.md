@@ -14,8 +14,9 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 <p align="left">
 <a href="https://linkedin.com/in/mr-prajwal-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-prajwal-yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/prazwal_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prazwal_yadav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the adhunik coding, adhunik ganit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the adhunik coding, adhunik ganit" height="30" width="40" /></a>
+<a href="https://x.com/MrPrajwalYadav/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="mr-prajwal-yadav" height="50" width="50" /></a>
 </p>
+
 
 
 
@@ -34,7 +35,7 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 ### Languages:
 | Python | C | JS | C++ | Java |
 |----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://logowik.com/content/uploads/images/911_c_logo.jpg" title="C++" alt="C++" width="100" height="80"/>|  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" title="Java" alt="Java" width="100" height="55"/>| 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" title="Java" alt="Java" width="100" height="55"/>| 
 
   
 
