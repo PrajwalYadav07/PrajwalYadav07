@@ -19,8 +19,6 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 
 
 
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
 
 ### Working on: 🚀
 
@@ -88,7 +86,7 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 </div>
 
 <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
 
