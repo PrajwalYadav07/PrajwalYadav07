@@ -87,7 +87,7 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 </div>
 
 <p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="snake"/>
 </p>
 
 
