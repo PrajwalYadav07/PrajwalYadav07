@@ -1,4 +1,4 @@
-
+### Hi, I'm Prajwal 👋
   
 ### About Me:    
 As a computer engineering student with hands-on experience in the tech industry, I am committed to applying my skills and knowledge to real-world challenges. Currently pursuing my diploma in Computer Engineering, I am proficient in multiple programming languages and always eager to expand my expertise.
@@ -23,7 +23,7 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 
 ### Working on: 🚀
 
-- Learning Programing Languages
+- Learning Programing Languages,DSA
 - Data Analyst
 - Web Devlopment
 - Learning Multiple Technology
@@ -62,24 +62,12 @@ Outside of my academic and professional pursuits, I enjoy to play game, Cricket 
 
 
 
+### My Stats ⭐
 
-
-  
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrajwalYadav07&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</p>
-
-
----
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=PrajwalYadav07&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalYadav07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
- 
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PrajwalYadav07&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalYadav07&layout=compact&&langs_count=8"/>
+</div>
 
 
 <div id="header" align="center">
