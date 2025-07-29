@@ -1,14 +1,7 @@
 ### Hi, I'm Prajwal 👋
   
 ### About Me:    
-As a computer engineering student with hands-on experience in the tech industry, I am committed to applying my skills and knowledge to real-world challenges. Currently pursuing my diploma in Computer Engineering, I am proficient in multiple programming languages and always eager to expand my expertise.
-
-I am currently working as a Data Analytics Intern at IBM, where I am gaining valuable insights into data manipulation, analysis, and visualization. Additionally, I am enhancing my web development skills as a Web Design Intern at STYPIX, focusing on building dynamic and responsive applications using React.js.
-
-My goal is to leverage my technical background and internship experiences to contribute effectively to innovative projects and eventually secure a full-time role in the tech industry. I am passionate about learning new technologies and continuously improving my skills.
-
-Outside of my academic and professional pursuits, I enjoy to play game, Cricket etc, which help me maintain a well-rounded and balanced lifestyle
-       
+An Engineering student
    
 ### Social media: 📡    
 <p align="left">
