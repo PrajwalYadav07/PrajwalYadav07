@@ -45,11 +45,11 @@
 
 
 
-### Social media: 📡    
+### Follow on:     
 <p align="left">
-<a href="https://linkedin.com/in/mr-prajwal-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-prajwal-yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/prazwal_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prazwal_yadav" height="30" width="40" /></a>
-<a href="https://x.com/MrPrajwalYadav/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="mr-prajwal-yadav" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/mr-prajwal-yadav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="mr-prajwal-yadav" height="40" width="40" padding="5" /></a>
+<a href="https://instagram.com/prazwal_yadav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="prazwal_yadav" height="40" width="40" padding="5"/></a>
+<a href="https://x.com/MrPrajwalYadav/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="mr-prajwal-yadav" height="40" width="40" padding="5" /></a>
 </p>
 
 
