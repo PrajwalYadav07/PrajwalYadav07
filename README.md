@@ -49,13 +49,13 @@ An Engineering student
 
 
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=prajwalyadav&label=Profile%20views&color=0e75b6&style=flat" alt=""/>
 </div>
 
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="snake"/>
-</p>
+</p> -->
 
 
 
